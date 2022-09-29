@@ -1,6 +1,5 @@
 h1{
     font-weight: bold;
-    color: rgb(48, 70, 52);
     text-align: center;
 }
 
@@ -9,7 +8,7 @@ h1{
     flex-direction: row;
     justify-content: center;
     justify-content: space-evenly;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: bold;
 
 }
@@ -17,17 +16,19 @@ h1{
 
 
 
+
 body{
-    background-color: rgb(215, 184, 228);
+    background-color: #EAE7DC;
 }
 
 p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(5, 5, 4);
+    font-size: 12px;
 }
 
 img {
-    width: 400px;
+    width: 300px;
     height: auto;
     display: block;
     margin-left: auto;
@@ -38,4 +39,6 @@ img {
     text-align: center;
     font-size: 18px;
 }
+
+
 
