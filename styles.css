@@ -26,6 +26,13 @@ p {
     color: rgb(5, 5, 4);
     font-size: 12px;
 }
+.carne {
+    width: auto;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 img {
     width: 300px;
@@ -34,6 +41,7 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+
 
 .intro {
     text-align: center;
